@@ -1,4 +1,4 @@
 # hello-world
 This is the hello world repository of the learning purpose.
 
-Hello! guys. I am leraning something new.
+Hello! guys. I am learning something new.
