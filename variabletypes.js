@@ -1,5 +1,5 @@
 //There are different variable types in javascript.
-//Hello
+//Hello There
 // 1) Numbers 
 //Below are some examples of numbers variables
 var one = 11
